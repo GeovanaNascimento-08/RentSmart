@@ -13,3 +13,5 @@ Como executar:
 4. Execute o arquivo principal .py;
 5. Siga as instruções apresentadas no terminal.
 
+Autor:
+- Geovana Nascimento. 
